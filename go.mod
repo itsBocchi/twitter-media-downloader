@@ -1,6 +1,6 @@
-module twmd
+module github.com/itsbocchi/twitter-media-downloader
 
-go 1.14
+go 1.17
 
 require (
 	github.com/mmpx12/optionparser v1.0.2
